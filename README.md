@@ -95,7 +95,8 @@ else:
     cv2.destroyAllWindows()
 ```
 ## Output
-![WhatsApp Image 2025-05-24 at 10 59 28_cf57fa77](https://github.com/user-attachments/assets/818faaf5-2fb2-4bf1-8788-7ab73604409c)
+
+![image](https://github.com/user-attachments/assets/320512fe-ff28-4ab9-a3ca-e1cee2902bf6)
 
 ## Result
 Thus the given objective of face detection is done sucessfully.
